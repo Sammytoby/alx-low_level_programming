@@ -8,7 +8,6 @@
  * Return: 0 Means successful
  */
 int main(void)
-  
 {
 	int n;
 
